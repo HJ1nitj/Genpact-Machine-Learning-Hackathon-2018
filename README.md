@@ -48,7 +48,7 @@ Then, there was some information about the meal’s themselves.
 ### Leaderboard
 Public LB : 74th Rank
 
-Private LB : 74th Rank 
+Final Rank LB : 73th Rank 
 
 ### Link to hackathon
 https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon/
